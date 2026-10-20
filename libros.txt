@@ -1,3 +1,3 @@
-Libros prestados: 55
+Libros prestados: 130
 Libros disponibles: 129
-Libros reservados: 31
+Libros reservados: 53
